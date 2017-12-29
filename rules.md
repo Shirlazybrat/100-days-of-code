@@ -6,7 +6,7 @@
 #### Start Date
 December 28th, 2017.
 
-### End Date
+#### End Date
 Saturday, April 7, 2018
 
 ## Additional Rules
