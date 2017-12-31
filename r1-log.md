@@ -11,3 +11,6 @@ Completed some practice avtivities with DOM manipulatition using vanillaJS. Comp
 Completed some jQuery practice avtivities and made a to-do list app using the new methods and events.
 
 ### R1D3
+Completed to-do application and made a mock of patatap.com
+
+### R1D4
