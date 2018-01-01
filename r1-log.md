@@ -14,3 +14,4 @@ Completed some jQuery practice avtivities and made a to-do list app using the ne
 Completed to-do application and made a mock of patatap.com
 
 ### R1D4
+Today was a struggle to find time (it's New Years Eve), But I managed to setup my Cloud9 and completed a brief tutorial on backend development.
