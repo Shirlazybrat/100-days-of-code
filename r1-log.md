@@ -18,3 +18,6 @@ Today was a struggle to find time (it's New Years Eve), But I managed to setup m
 
 ### R1D5
 Practice with simple NodeJS apps with npm packages and Node apps using Express.
+
+### R1D6
+Practice with Express, making simple applications and better understanding routes.
