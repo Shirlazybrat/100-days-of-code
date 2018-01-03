@@ -15,3 +15,6 @@ Completed to-do application and made a mock of patatap.com
 
 ### R1D4
 Today was a struggle to find time (it's New Years Eve), But I managed to setup my Cloud9 and completed a brief tutorial on backend development.
+
+### R1D5
+Practice with simple NodeJS apps with npm packages and Node apps using Express.
