@@ -21,3 +21,6 @@ Practice with simple NodeJS apps with npm packages and Node apps using Express.
 
 ### R1D6
 Practice with Express, making simple applications and better understanding routes.
+
+### R1D7
+Practice with EJS using express to build a simple dynamic application
