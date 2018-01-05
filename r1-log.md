@@ -24,3 +24,6 @@ Practice with Express, making simple applications and better understanding route
 
 ### R1D7
 Practice with EJS using express to build a simple dynamic application
+
+### R1D8
+Practice with building Node/Express apps using API's
