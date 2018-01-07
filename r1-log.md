@@ -32,4 +32,7 @@ Practice with building Node/Express apps using API's
 Started building the mock Yelp app by setting up the folders and base files and routes.
 
 ### R1D10
-Built a small and simple API using express, node and mongo.
+Started to build a small and simple API using express, node and mongo. Issues with running MongoDB on my Mac, frustrating so gonna try MLab  (another day).
+
+### R1D10
+Going through BackboneJS, mainly for better usderstand of the codebase at my job, but also to get the feel of another framewoks.
