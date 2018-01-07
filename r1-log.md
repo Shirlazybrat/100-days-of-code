@@ -27,3 +27,9 @@ Practice with EJS using express to build a simple dynamic application
 
 ### R1D8
 Practice with building Node/Express apps using API's
+
+### R1D9
+Started building the mock Yelp app by setting up the folders and base files and routes.
+
+### R1D10
+Built a small and simple API using express, node and mongo.
