@@ -36,3 +36,6 @@ Started to build a small and simple API using express, node and mongo. Issues wi
 
 ### R1D11
 Going through BackboneJS, mainly for better understand of the codebase at my job, but also to get the feel of another frameworks.
+
+### R1D12
+Man, getting in that one hour is a sturggle on cold, rainy days after work and a long train ride... but I will code! More BackboneJS.
