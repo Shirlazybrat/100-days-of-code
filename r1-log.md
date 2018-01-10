@@ -39,3 +39,6 @@ Going through BackboneJS, mainly for better understand of the codebase at my job
 
 ### R1D12
 Man, getting in that one hour is a sturggle on cold, rainy days after work and a long train ride... but I will code! More BackboneJS.
+
+### R1D13
+Going back to work on my Yelp mock application today with some basic styling using Bootstrap.
