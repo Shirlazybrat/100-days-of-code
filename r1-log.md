@@ -42,3 +42,6 @@ Man, getting in that one hour is a sturggle on cold, rainy days after work and a
 
 ### R1D13
 Going back to work on my Yelp mock application today with some basic styling using Bootstrap.
+
+### R1D14
+More Yelp mock application today. Styling and database setup
