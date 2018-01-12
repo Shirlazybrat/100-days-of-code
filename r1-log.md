@@ -45,3 +45,6 @@ Going back to work on my Yelp mock application today with some basic styling usi
 
 ### R1D14
 More Yelp mock application today. Styling and database setup
+
+### R1D15
+More Yelp mock application today. Fix some styling issues with v4 of Bootstrap.
