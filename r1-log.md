@@ -51,3 +51,6 @@ More Yelp mock application today. Fix some styling issues with v4 of Bootstrap.
 
 ### R1D16
 Was accepted for Udacity's Grow with Google Scholarship and going through their Java and Android basics in preparation for the Intermediate Android track I was selected for. Excited!!!
+
+### R1D17
+Going through Udacity's Intro to Java course and Android basics. A lot to cover, but I learning a lot and eager to get working on Android apps.
