@@ -54,3 +54,6 @@ Was accepted for Udacity's Grow with Google Scholarship and going through their 
 
 ### R1D17
 Going through Udacity's Intro to Java course and Android basics. A lot to cover, but I learning a lot and eager to get working on Android apps.
+
+### R1D18
+Building my first Android apps and making them interactive with the help of Udacity.
