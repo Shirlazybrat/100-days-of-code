@@ -57,3 +57,6 @@ Going through Udacity's Intro to Java course and Android basics. A lot to cover,
 
 ### R1D18
 Building my first Android apps and making them interactive with the help of Udacity.
+
+### R1D19
+Continuing to build my interactive Android app with the help of Udacity. Adding buttons that increment and decrement, debugging using Android Studio and more.
