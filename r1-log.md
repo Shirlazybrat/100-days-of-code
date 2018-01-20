@@ -62,4 +62,8 @@ Building my first Android apps and making them interactive with the help of Udac
 Continuing to build my interactive Android app with the help of Udacity. Adding buttons that increment and decrement, debugging using Android Studio and more.
 
 ### R1D20
-More building of my interactive Android app with the help of Udacity. Tha app can display dynamic text after the click. Progress!!!
+More building of my interactive Android app with the help of Udacity. The app can display dynamic text after the click. Progress!!!
+
+
+### R1D21
+Going through exercies to implement more interavtivity in another Android app with the help of Udacity.
