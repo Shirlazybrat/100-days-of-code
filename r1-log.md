@@ -67,3 +67,9 @@ More building of my interactive Android app with the help of Udacity. The app ca
 
 ### R1D21
 Going through exercies to implement more interavtivity in another Android app with the help of Udacity.
+
+### R1D22
+Going through exercies to implement more interavtivity in another Android app with the help of Udacity.
+
+### R1D23
+Back to the Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
