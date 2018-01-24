@@ -73,3 +73,9 @@ Going through exercies to implement more interavtivity in another Android app wi
 
 ### R1D23
 Back to the Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
+
+### R1D24
+More work on my Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
+
+### R1D25
+More work on my Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
