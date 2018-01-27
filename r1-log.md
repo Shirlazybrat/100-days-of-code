@@ -79,3 +79,7 @@ More work on my Java(coffee) Android app, understanding methods and OOP with the
 
 ### R1D25
 More work on my Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
+
+### R1D26-28 (lol) Missed two days of work b/c I spent my time helping my boyfriend prepare for his coding bootcamp, so guess it still counts as coding... I did actually code to help...so this is Day28! 😋 Working to redeploy my portfolio because it's been broken.
+
+### R1D29
