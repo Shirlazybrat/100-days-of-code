@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Shirlette
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on December 28th, 2017.
 
 ## Log
 
@@ -80,6 +80,8 @@ More work on my Java(coffee) Android app, understanding methods and OOP with the
 ### R1D25
 More work on my Java(coffee) Android app, understanding methods and OOP with the help of Udacity.
 
-### R1D26-28 (lol) Missed two days of work b/c I spent my time helping my boyfriend prepare for his coding bootcamp, so guess it still counts as coding... I did actually code to help...so this is Day28! 😋 Working to redeploy my portfolio because it's been broken.
+### R1D26-28 (lol) 
+Missed two days of work b/c I spent my time helping my boyfriend prepare for his coding bootcamp, so guess it still counts as coding... I did actually code to help...so this is Day28! 😋 Working to redeploy my portfolio because it's been broken.
 
-### R1D29
+### R1D29 
+Attending an angular conference, re-learning the basics of angular to strengthen my understand of MVC's and single-page applications.
