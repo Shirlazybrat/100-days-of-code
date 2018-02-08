@@ -85,3 +85,7 @@ Missed two days of work b/c I spent my time helping my boyfriend prepare for his
 
 ### R1D29 
 Attending an angular conference, re-learning the basics of angular to strengthen my understand of MVC's and single-page applications.
+
+### R1D30 
+I haven't pushed any code, barely coded anything at all, in the past week. I am ashamed and part of me want to start the challenge over, but I will continue, make more of a committed effort and at least get in one hour. I owe it to myself and my future to that much.
+Today I will be working more on my android application learning, going through more Udacity and working toward my future goals.
