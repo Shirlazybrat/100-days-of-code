@@ -10,7 +10,11 @@ Today I feel completed defeated and had a moment of break down. I took an online
 
 <!-- for issues with pushing visit: https://mycyberuniverse.com/web/how-fix-fatal-authentication-failed-for-https-github-com.html -->
 
-### R2D1
+### R2D2
 Worked on some flexbox using Flexbox Zombies. So far I am enjoying it alot and looking forward to practicing daily.
 I also looked at potential resume and cover letter resources to better increase my chances at landing a remote job in the near future.
 Twitter support if very motivating, but I DO need an accountability partner.
+
+###R2D3
+Tired and had a long day. Took a nap and made sure to get some time in to code.
+Just finished Flexbox Zombies Chapter 4. Mind blown. https://flexboxzombies.com
