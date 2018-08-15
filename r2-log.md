@@ -18,3 +18,7 @@ Twitter support if very motivating, but I DO need an accountability partner.
 ###R2D3
 Tired and had a long day. Took a nap and made sure to get some time in to code.
 Just finished Flexbox Zombies Chapter 4. Mind blown. https://flexboxzombies.com
+
+###R2D4
+I managed to do some more practice with #CodeZombies but I spent a lot of time on personal professional development 😁
+My biggest struggle, Consistency. If I make it to 30 days nonstop I should be in the habit of it.
