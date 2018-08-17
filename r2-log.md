@@ -22,3 +22,8 @@ Just finished Flexbox Zombies Chapter 4. Mind blown. https://flexboxzombies.com
 ###R2D4
 I managed to do some more practice with #CodeZombies but I spent a lot of time on personal professional development 😁
 My biggest struggle, Consistency. If I make it to 30 days nonstop I should be in the habit of it.
+
+###R2D5 Attended blockchain meetup for Women. Thx @Gyals_Network Eager to learn more!
+
+###R2D6 Just finished #FlexboxZombies Ch 5: Where the Wild Things Grow. Amazing!
+Sprucing up my CORS, XSS and JS frameworks knowledge...https://flexboxzombies.com
